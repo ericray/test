@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/Http/Middleware/AdminAccess.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/Http/routes.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/seeds/EstadoTableSeeder.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/lang/es/auth.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/lang/es/pagination.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/lang/es/validation.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/administrador/form.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/alumno/form.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/director/form.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/director/list.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/escuela/form.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/escuela/list.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/estado/form.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/estado/list.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/estatus/form.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/estatus/list.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/home.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/maestro/form.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/tabla/form.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/auth/login.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/auth/password.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/auth/public/login.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/auth/reset.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/email/password.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/email/welcome.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/errors/403.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/layouts/app_public.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/partials/edit_password.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/public/home.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/public/tarea/calificar_tarea.blade.php" charset="UTF-8" />
+  </component>
+</project>
